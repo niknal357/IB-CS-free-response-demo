@@ -1,0 +1,106 @@
+[
+    {
+        "question": "Explain the concept of 'data abstraction' in computer science.",
+        "markScheme": {
+            "totalMarks": 4,
+            "criteria": [
+                {
+                    "description": "Understanding of 'data abstraction'",
+                    "marks": 2
+                },
+                {
+                    "description": "Examples of data abstraction in real-world applications",
+                    "marks": 2
+                }
+            ]
+        }
+    },
+    {
+        "question": "Discuss the ethical implications of artificial intelligence in modern society.",
+        "markScheme": {
+            "totalMarks": 6,
+            "criteria": [
+                {
+                    "description": "Identification of key ethical issues",
+                    "marks": 2
+                },
+                {
+                    "description": "Analysis of the impact of AI on society",
+                    "marks": 2
+                },
+                {
+                    "description": "Evaluation of potential solutions or approaches to these ethical issues",
+                    "marks": 2
+                }
+            ]
+        }
+    },
+    {
+        "question": "Describe the process of normalization in database design and its importance.",
+        "markScheme": {
+            "totalMarks": 5,
+            "criteria": [
+                {
+                    "description": "Explanation of normalization process",
+                    "marks": 2
+                },
+                {
+                    "description": "Identification of different normal forms",
+                    "marks": 1
+                },
+                {
+                    "description": "Discussion of the importance of normalization in database design",
+                    "marks": 2
+                }
+            ]
+        }
+    },
+    {
+        "question": "Compare and contrast procedural and object-oriented programming paradigms.",
+        "markScheme": {
+            "totalMarks": 7,
+            "criteria": [
+                {
+                    "description": "Description of procedural programming",
+                    "marks": 2
+                },
+                {
+                    "description": "Description of object-oriented programming",
+                    "marks": 2
+                },
+                {
+                    "description": "Comparison of both paradigms",
+                    "marks": 2
+                },
+                {
+                    "description": "Examples illustrating the differences",
+                    "marks": 1
+                }
+            ]
+        }
+    },
+    {
+        "question": "Outline the importance of encryption in maintaining internet security.",
+        "markScheme": {
+            "totalMarks": 4,
+            "criteria": [
+                {
+                    "description": "Basic understanding of encryption",
+                    "marks": 1
+                },
+                {
+                    "description": "Types of encryption methods",
+                    "marks": 1
+                },
+                {
+                    "description": "Role of encryption in internet security",
+                    "marks": 1
+                },
+                {
+                    "description": "Real-world examples or case studies",
+                    "marks": 1
+                }
+            ]
+        }
+    }
+]

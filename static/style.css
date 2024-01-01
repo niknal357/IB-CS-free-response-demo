@@ -1,0 +1,89 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 700px;
+    margin: 40px auto;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    text-align: left;
+}
+
+button {
+    background: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px 0;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    resize: vertical;
+}
+
+#question {
+    font-size: 20px;
+    color: #444;
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+.total-results {
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.score-category {
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.feedback {
+    font-style: italic;
+    color: #555;
+}
+
+.max-score {
+    background-color: #d4edda;
+    color: #155724;
+}
+
+.partial-score {
+    background-color: #fff3cd;
+    color: #856404;
+}
+
+.zero-score {
+    background-color: #f8d7da;
+    color: #721c24;
+}
+
+::placeholder {
+    color: #999;
+}
